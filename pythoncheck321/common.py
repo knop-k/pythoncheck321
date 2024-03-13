@@ -2,6 +2,6 @@
 """
 
 def hello_world():
-    """Prints "Hello World!" to the console.
+    """Prints "Hello World!" to the console update.
     """
     print("Hello World!")
